@@ -1,73 +1,73 @@
-# 👋 Привет, я Misha — Algorithmic Trading Developer
+# 👋 Hi, I'm Misha — Algorithmic Trading Developer
 
-Разработчик торговых систем с **19+ годами опыта в трейдинге** и **9+ годами коммерческой разработки в MQL4/MQL5**.  
-Строю алгоритмические стратегии, индикаторы, торговых роботов, анализирую рынки и автоматизирую процессы.
+Developer of trading systems with **19+ years of trading experience** and **9+ years of commercial development in MQL4/MQL5**.  
+I build algorithmic strategies, indicators, trading robots, market analytics tools, and automation systems.
 
-Сейчас изучаю и активно применяю: **Pine Script**, **Python (Data/ML)**, **C++**, **JavaScript**.
-
----
-
-## 🚀 Моя специализация
-
-- ✅ Разработка торговых роботов **MQL4/MQL5**
-- ✅ Создание индикаторов (трендовые, волатильность, фильтры, статистические модели)
-- ✅ Стратегии на **TradingView / Pine Script v5**
-- ✅ Анализ данных и прототипирование моделей в **Python**
-- ✅ Интеграция торговых стратегий с Telegram / API / внешними сервисами
-- ✅ Оптимизация и структурирование кода, улучшение производительности
+Currently advancing in: **Pine Script**, **Python (Data/ML)**, **C++**, **JavaScript**.
 
 ---
 
-## 📌 Основные технологии
+## 🚀 Specializations
 
-**MQL4 / MQL5**,  
-**Pine Script v5**,  
-**Python (Pandas, NumPy, MatPlotlib, Requests)**,  
-**C++ (базовые алгоритмы)**,  
-**JavaScript / Node.js**,  
-**Git / GitHub**,  
-**MetaTrader 4/5**,  
-**TradingView**,  
-**REST / Webhooks / API интеграции**
+- ✅ Trading robots development (**MQL4/MQL5**)
+- ✅ Technical indicators (trend, volatility, filters, statistical models)
+- ✅ Trading strategies on **TradingView / Pine Script v5**
+- ✅ Market data analysis and model prototyping in **Python**
+- ✅ Integrations with Telegram, APIs, webhooks, and external services
+- ✅ Code optimization, refactoring, performance improvements
 
 ---
 
-## 📂 Featured Projects (Лучшие проекты)
+## 📌 Core Technologies
+
+**MQL4 / MQL5**  
+**Pine Script v5**  
+**Python (Pandas, NumPy, Matplotlib, Requests)**  
+**C++ (algorithms, data structures basics)**  
+**JavaScript / Node.js**  
+**Git / GitHub**  
+**MetaTrader 4/5**  
+**TradingView**  
+**REST / Webhooks / API integrations**
+
+---
+
+## 📂 Featured Projects
 
 ### ⭐ **MT5 Expert Advisor — Multi-Logic Trading Bot**
-Советник с:
-- гибкой системой входа (iBands + iRSI + дополнительные фильтры)
-- добавлением позиций после прохождения расстояния
-- продвинутым Trailing Stop
-- закрытием по времени
-- возможностью гибкой настройки под разные рынки
+Includes:
+- Flexible entry logic (iBands + iRSI + optional filters)  
+- Position pyramiding after distance thresholds  
+- Advanced Trailing Stop  
+- Time-based exit  
+- Full parameter customization  
 
-👉 *Этот проект постоянно улучшается и оформляется как полноценный репозиторий.*
+👉 *This project is being actively improved and documented as a full repository.*
 
 ---
 
-### ⭐ **Набор индикаторов для MQL5**
-Включает:
-- Индикаторы волатильности  
-- Фильтры тренда  
-- Вспомогательные панели и уровни  
-- Визуальные подсказки и тайминги
+### ⭐ **MQL5 Indicators Pack**
+Includes:
+- Volatility indicators  
+- Trend filters  
+- Utility panels and levels  
+- Visual signals and timing tools  
 
 ---
 
 ### ⭐ **Pine Script Indicators & Strategies**
 - Reversal candles detector  
-- Bollinger/RSI system  
-- Trend strength tool  
-- Alerts & automation
+- Bollinger/RSI combined strategy  
+- Trend strength indicator  
+- Alerts & automation tools  
 
 ---
 
 ### ⭐ **Python Market Tools**
-- Парсер экономического календаря  
-- Анализ свечной истории  
-- Создание кастомных индикаторов  
-- Прототипирование стратегий
+- Economic calendar parser  
+- Historical candles processing  
+- Custom indicator calculations  
+- Strategy prototyping  
 
 ---
 
@@ -80,23 +80,23 @@
 
 ---
 
-## 📫 Контакты
+## 📫 Contact
 
 **Telegram:** https://t.me/  
 **Upwork:** https://www.upwork.com/  
 **LinkedIn:** https://www.linkedin.com/  
-*(добавь ссылки — я подставлю реальные, если дашь инициалы/юзернеймы)*
+*(Send me your actual links and I will insert them for you.)*
 
 ---
 
-## 🔥 В настоящее время
+## 🔥 Currently Working On
 
-- Прокачиваю GitHub (структура, оформление проектов, новые репозитории)
-- Перевожу торговые идеи в Python и Pine Script
-- Готовлю портфолио для вакансий Algo-Trading / Quant / FinTech
-- Ищу новые высокооплачиваемые проекты и предложения
+- Improving and structuring my GitHub repositories  
+- Translating trading ideas into Python & Pine Script  
+- Preparing a portfolio for Algo-Trading / Quant / FinTech roles  
+- Open to new opportunities and collaborations  
 
 ---
 
-### ⭐ Спасибо, что заглянули!  
-Если вам нужен алгоритмический разработчик — смело пишите.
+### ⭐ Thanks for visiting!  
+If you are looking for an algorithmic trading developer — feel free to reach out.
