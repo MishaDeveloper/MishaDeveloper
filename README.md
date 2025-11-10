@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Misha — Algorithmic Trading Developer
+# 👋 Hi, I'm Mike — Algorithmic Trading Developer
 
 Developer of trading systems with **19+ years of trading experience** and **9+ years of commercial development in MQL4/MQL5**.  
 I build algorithmic strategies, indicators, trading robots, market analytics tools, and automation systems.
