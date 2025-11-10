@@ -82,10 +82,12 @@ Includes:
 
 ## 📫 Contact
 
-**Telegram:** https://t.me/  
-**Upwork:** https://www.upwork.com/  
-**LinkedIn:** https://www.linkedin.com/  
-*(Send me your actual links and I will insert them for you.)*
+**Telegram:** https://t.me/MikeMQL 
+**Freelancer:** https://www.freelancer.com/u/MikhailKrg
+**Upwork:** https://www.upwork.com/freelancers/~01acca912adff1fb86 
+**LinkedIn:** https://www.linkedin.com/in/mikemqlpine
+**MQL5:** https://www.mql5.com/en/users/makryg
+
 
 ---
 
