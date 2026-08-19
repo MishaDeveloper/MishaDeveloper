@@ -1,92 +1,103 @@
-#  Hi, I'm Mike — Algorithmic Trading Developer
+# Mykhailo Krygin — Trading Software Developer
 
-Developer of trading systems with **19+ years of trading experience** and **9+ years of commercial development in MQL4/MQL5**.  
-I build algorithmic strategies, indicators, trading robots, market analytics tools, and automation systems.
+I'm **Mykhailo Krygin**, founder of **TradeHub**, with **8+ years of professional MQL4/MQL5 development experience** and **20+ years of hands-on experience in Forex and financial markets**.
 
-Currently working with and expanding my skills in: **Pine Script**, **Python**, **C++**, **JavaScript**.
+I develop trading software, Expert Advisors, indicators, trading utilities, risk management systems, trade copiers, market analysis tools, and automation solutions.
 
----
+My work combines practical trading experience with software development, with a primary focus on **MetaTrader 4/5, MQL4/MQL5, Python, Pine Script, and trading infrastructure**.
 
-##  Specializations
+## Specializations
 
-- MQL4/MQL5 Expert Advisors and automated strategies  
-- Technical indicators (trend, volatility, filters, statistical models)  
-- Trading strategies on **TradingView (Pine Script v5)**  
-- Market data analysis and prototyping tools in **Python**  
-- Integrations with Telegram, APIs, webhooks, and external services  
-- Code optimization, refactoring, and performance improvements  
+* MQL4/MQL5 Expert Advisors and automated trading systems
+* Custom indicators and trading utilities
+* Risk management and trade management systems
+* Trade copiers and account management tools
+* TradingView indicators and strategies using Pine Script
+* Market data analysis and prototyping in Python
+* REST API, Telegram, webhook, and external service integrations
+* Backtesting and strategy optimization
+* Code optimization, refactoring, and performance improvements
 
----
+## Core Technologies
 
-##  Core Technologies
+* **MQL4 / MQL5**
+* **Python (Pandas, NumPy, Matplotlib, Requests)**
+* **Pine Script**
+* **C++**
+* **JavaScript / Node.js**
+* **REST APIs / Webhooks**
+* **Git / GitHub**
 
-- **MQL4 / MQL5**  
-- **Pine Script v5**  
-- **Python (Pandas, NumPy, Matplotlib, Requests)**  
-- **C++**  
-- **JavaScript / Node.js**  
-- **Git / GitHub**  
-- **MetaTrader 4/5**  
-- **TradingView**  
-- **REST / Webhooks / API integrations**
+Platforms:
 
----
+* **MetaTrader 4 / MetaTrader 5**
+* **TradingView**
 
-##  Featured Projects
+## TradeHub
 
-###  MT5 Expert Advisor — Multi-Logic Trading Bot
-Includes:  
-- Flexible entry logic (iBands + iRSI + optional filters)  
-- Position pyramiding based on configurable distance thresholds  
-- Advanced Trailing Stop  
-- Time-based exit logic  
-- Fully customizable parameters  
+I'm currently developing **TradeHub**, an ecosystem of trading software, automation tools, and infrastructure for traders and financial markets.
 
----
+Current areas of development include:
 
-###  MQL5 Indicators Pack
-Includes:  
-- Volatility indicators  
-- Trend-filter tools  
-- Utility panels and levels  
-- Visual signals and timing utilities  
+* Trade management and risk management utilities
+* MT4/MT5 trade copying
+* Trading automation
+* Python-based trading infrastructure
+* Market data processing and analytics
+* Licensing infrastructure for trading software
+* API integrations
 
----
+## Featured Projects
 
-###  Pine Script Indicators & Strategies
-- Reversal candle detector  
-- Bollinger/RSI combined strategy  
-- Trend strength indicator  
-- Alerts and automation helpers  
+### MT5 Expert Advisor — Multi-Logic Trading Bot
 
----
+* Flexible entry logic with configurable filters
+* Position management and pyramiding
+* Advanced trailing stop
+* Time-based exit logic
+* Configurable trading and risk parameters
 
-###  Python Market Tools
-- Economic calendar parser  
-- Historical candles processing  
-- Custom indicator calculations  
-- Strategy prototyping utilities  
+### MQL4/MQL5 Trading Utilities
 
----
+* Break-even management
+* Trailing stop management
+* Risk management tools
+* Trade panels
+* Trade copiers
+* Account and position management utilities
 
-##  Contact
+### Pine Script Indicators & Strategies
 
-**Telegram:** https://t.me/MikeMQL  
-**Freelancer:** https://www.freelancer.com/u/MikhailKrg  
-**Upwork:** https://www.upwork.com/freelancers/~01acca912adff1fb86  
-**LinkedIn:** https://www.linkedin.com/in/mikemqlpine  
-**MQL5:** https://www.mql5.com/en/users/makryg  
+* Custom TradingView indicators
+* Strategy implementation
+* Multi-timeframe logic
+* Alerts and automation helpers
 
----
+### Python Trading Tools
 
-##  Currently Working On
+* MetaTrader integration
+* Market data processing
+* Historical data analysis
+* Custom indicator calculations
+* Strategy prototyping
+* REST API integrations
 
-- Expanding and structuring GitHub repositories  
-- Migrating trading ideas into Python and Pine Script  
-- Preparing a stronger portfolio for Algo-Trading / Quant / FinTech roles  
-- Open to new projects and collaboration opportunities  
+## Contact & Professional Profiles
 
----
+**Telegram:** https://t.me/MikeMQL
+**Freelancer:** https://www.freelancer.com/u/MikhailKrg
+**Upwork:** https://www.upwork.com/freelancers/~01acca912adff1fb86
+**LinkedIn:** https://www.linkedin.com/in/mikemqlpine
+**MQL5:** https://www.mql5.com/en/users/makryg
+**YouTube:** https://www.youtube.com/@MikeMQL_Pine
 
-###  Thanks for visiting!  
-Feel free to contact me if you need an algorithmic trading developer.
+## Current Focus
+
+* Developing the TradeHub trading software ecosystem
+* Expanding Python-based trading infrastructure
+* MQL4/MQL5 and MetaTrader development
+* Trading platform and API integrations
+* Algorithmic trading and automation
+* FinTech and trading technology projects
+
+I'm open to freelance projects, contract work, and professional opportunities in **trading software development, algorithmic trading, FinTech, and trading infrastructure**.
